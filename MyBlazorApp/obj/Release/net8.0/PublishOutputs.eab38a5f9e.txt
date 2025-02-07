@@ -1,0 +1,1 @@
+/home/amlan_unix/repos/nginx-blazor/MyBlazorApp/dist/web.config
